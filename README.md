@@ -18,7 +18,7 @@
 ║  CODENAME   :: VXTTIN4M                                     ║
 ║  STATUS     :: DEVELOPER IN FORMATION                       ║
 ║  LOCATION   :: SÃO PAULO, BRAZIL                           ║
-║  OBJECTIVE  :: ANALYST OF SYSTEMS                           ║
+║  OBJETIVO  :: ANALISTA DE SISTEMA                          ║
 ║  STATUS     :: ONLINE                                       ║
 ╚══════════════════════════════════════════════════════════════╝
 </div>
