@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:00E5FF&text=SYSTEM%20ONLINE%20%2F%2F%20VICTOR%20MOURA&fontColor=00E5FF&fontSize=32&fontAlignY=40&animation=fadeIn&font=JetBrains%20Mono" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:05070A,50:0D1117,100:00E5FF&text=SYSTEM%20ONLINE%20%2F%2F%20VICTOR%20MOURA&fontColor=00E5FF&fontSize=32&fontAlignY=38&animation=fadeIn&font=JetBrains%20Mono"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+the+future;Developer+in+formation;System+initialized...;Welcome+to+my+GitHub" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=DEVELOPER+IN+FORMATION;BUILDING+THE+FUTURE;SYSTEM+INITIALIZATION...;ACCESS+GRANTED;WELCOME%2C+VICTOR+MOURA" alt="Typing Animation"/>
 <a href="https://github.com/vxttin4m">
 <img src="https://img.shields.io/badge/GitHub-vxttin4m-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
@@ -10,37 +10,48 @@
 
 ⸻
 
-<div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║                  SYSTEM INITIALIZATION                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  USER       :: VICTOR MOURA                                 ║
-║  CODENAME   :: VXTTIN4M                                     ║
-║  STATUS     :: DEVELOPER IN FORMATION                       ║
-║  LOCATION   :: SÃO PAULO, BRAZIL                           ║
-║  OBJECTIVE  :: ANALYST OF SYSTEMS                           ║
-║  STATUS     :: ONLINE                                       ║
-╚══════════════════════════════════════════════════════════════╝
-</div>
+> SYSTEM_STATUS
+
+<table align="center">
+<tr>
+<td>
+┌─────────────────────────────────────────┐
+│           SYSTEM INITIALIZATION         │
+├─────────────────────────────────────────┤
+│                                         │
+│  USER       :: VICTOR MOURA             │
+│  CODENAME   :: VXTTIN4M                 │
+│  STATUS     :: ONLINE                   │
+│  ROLE       :: DEVELOPER IN FORMATION   │
+│  LOCATION   :: SÃO PAULO, BRAZIL       │
+│  OBJECTIVE  :: SYSTEMS ANALYST          │
+│                                         │
+│  BUILD      :: 2026                     │
+│  VERSION    :: 2.0                      │
+│                                         │
+└─────────────────────────────────────────┘
+</td>
+</tr>
+</table>
+
+⸻
 
 > ABOUT_ME
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=vxttin4m&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9"/>
-name: Victor Moura
-username: vxttin4m
-role: Developer em formação
-education: Ensino Médio
-career_goal: Analista de Sistemas
-location: São Paulo, Brasil
-experience: Iniciante
-status: Building the future
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=vxttin4m&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github"/>
 
-Atualmente estou cursando o Ensino Médio e construindo minha base no desenvolvimento de software.
+I’m Victor Moura, a developer in formation from São Paulo, Brazil.
 
-Meu objetivo profissional é atuar como Analista de Sistemas, desenvolvendo repertório técnico, criando projetos e evoluindo continuamente dentro da área de tecnologia.
+Currently studying High School and building my technical foundation with the goal of becoming a Systems Analyst.
 
-Estou focado em transformar conhecimento em projetos reais e construir uma trajetória sólida no desenvolvimento de software.
+My current focus is expanding my technical repertoire, building real projects and developing the skills required to enter and establish myself in the technology industry.
 
+> CURRENT_STATE
+Education    :: High School
+Experience   :: Beginner
+Career       :: Systems Analyst
+Focus        :: Software Development
+Status       :: Building the future
 <br clear="right"/>
 
 ⸻
@@ -49,22 +60,22 @@ Estou focado em transformar conhecimento em projetos reais e construir uma traje
 
 <div align="center">
 
-Languages
+LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" />
 
-Frameworks & Runtime
+FRAMEWORKS & RUNTIME
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&theme=dark" />
 
-Databases
+DATABASES
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&theme=dark" />
 </div>
 
 ⸻
 
-> TOOLS
+> DEVELOPMENT_TOOLS
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
@@ -73,37 +84,48 @@ Databases
 
 ⸻
 
-> CURRENT_OBJECTIVES
+> CURRENT_MISSIONS
 
-victor@system:~$ ./load_objectives.sh
-[01] ████████████████████░░  START COLLEGE — ADS
-[02] ███████████████░░░░░░  ENTER THE TECH INDUSTRY
-[03] ██████████████░░░░░░░  EXPAND TECHNICAL KNOWLEDGE
-[04] ████████████░░░░░░░░░  BUILD & IMPROVE PROJECTS
-[05] ██████████░░░░░░░░░░░  ESTABLISH MYSELF IN THE FIELD
-victor@system:~$ status
+victor@system:~$ ./current_missions.sh
+[01] START COLLEGE — ADS
+     STATUS :: TARGET
+[02] ENTER THE TECHNOLOGY INDUSTRY
+     STATUS :: TARGET
+[03] EXPAND TECHNICAL REPERTOIRE
+     STATUS :: IN PROGRESS
+[04] BUILD & IMPROVE PROJECTS
+     STATUS :: IN PROGRESS
+[05] ESTABLISH MYSELF IN THE FIELD
+     STATUS :: LONG-TERM TARGET
+victor@system:~$ echo $SYSTEM_STATUS
 > BUILDING THE FUTURE...
 > SYSTEM STATUS: ONLINE
-> NEXT MISSION: CREATE SOMETHING GREAT
 
 ⸻
 
-> PROJECTS
+> PROJECT_DATABASE
 
 <div align="center">
-┌──────────────────────────────────────────────────────────────┐
-│                         PROJECT DATABASE                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   NO PUBLIC PROJECTS DETECTED                                │
-│                                                              │
-│   STATUS :: BUILDING                                        │
-│   NEXT   :: FIRST PROJECT                                   │
-│                                                              │
-│   Repository database will be updated as new projects       │
-│   become available.                                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td align="center" width="500">
+
+NO_PROJECTS_FOUND
+
+┌───────────────────────────────────┐
+│                                   │
+│     PROJECT DATABASE: EMPTY       │
+│                                   │
+│     STATUS :: BUILDING            │
+│     NEXT   :: FIRST PROJECT       │
+│                                   │
+│     New repositories will appear  │
+│     here as they are developed.  │
+│                                   │
+└───────────────────────────────────┘
+</td>
+</tr>
+</table>
 </div>
 
 // First projects currently under construction.
@@ -113,28 +135,28 @@ victor@system:~$ status
 > GITHUB_ANALYTICS
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vxttin4m&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxttin4m&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vxttin4m&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxttin4m&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
 </div>
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=vxttin4m&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=vxttin4m&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" />
 </div>
 
 ⸻
 
-> CONTRIBUTION_ACTIVITY
+> ACTIVITY_GRAPH
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vxttin4m&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vxttin4m&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=VICTOR%20MOURA%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%"/>
 </div>
 
 ⸻
 
-> TROPHIES
+> ACHIEVEMENTS
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vxttin4m&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vxttin4m&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 </div>
 
 ⸻
@@ -142,66 +164,52 @@ victor@system:~$ status
 > SNAKE_PROTOCOL
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/vxttin4m/vxttin4m/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/vxttin4m/vxttin4m/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 ⸻
 
-> LIVE_STATUS
-
-<div align="center">
-
-Discord
-
-┌──────────────────────────────────────────────┐
-│ DISCORD CONNECTION                           │
-├──────────────────────────────────────────────┤
-│                                              │
-│ USER       :: vxttin4m.                      │
-│ STATUS     :: LIVE                           │
-│ PLATFORM   :: DISCORD                       │
-│                                              │
-└──────────────────────────────────────────────┘
-
-Spotify
-
-┌──────────────────────────────────────────────┐
-│ SPOTIFY                                      │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ♪  CURRENTLY PLAYING                       │
-│                                              │
-│  Waiting for connection...                   │
-│                                              │
-└──────────────────────────────────────────────┘
-</div>
-
-⸻
-
-> SOCIAL_NETWORK
+> CONNECT
 
 <div align="center">
 <a href="https://instagram.com/_ogvxttin">
 <img src="https://img.shields.io/badge/Instagram-_ogvxttin-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
 </a>
-<a href="https://discord.com/users/">
+<a href="https://discord.com/users/vxttin4m">
 <img src="https://img.shields.io/badge/Discord-vxttin4m.-0D1117?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
 </a>
 <a href="mailto:silvaxzz777@gmail.com">
-<img src="https://img.shields.io/badge/Email-silvaxzz777%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 </div>
 
 ⸻
 
+> LIVE_SYSTEMS
+
 <div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                  BUILDING THE FUTURE                         ║
-║                                                              ║
-║          "Every system starts with a first line."            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+
+DISCORD
+
+STATUS :: CONNECTION AVAILABLE
+USER   :: VXTTIN4M.
+
+SPOTIFY
+
+STATUS :: CONNECTION AVAILABLE
+MODE   :: CURRENTLY PLAYING
+</div>
+
+⸻
+
+<div align="center">
+┌──────────────────────────────────────────────┐
+│                                              │
+│              BUILDING THE FUTURE             │
+│                                              │
+│       SYSTEM STATUS :: OPERATIONAL           │
+│                                              │
+└──────────────────────────────────────────────┘
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,50:161B22,100:0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,50:0D1117,100:05070A"/>
 </div>
